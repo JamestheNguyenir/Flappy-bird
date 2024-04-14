@@ -1,1 +1,1 @@
-Learning the opensource python library 'pygame' by remaking the 2013 hit mobile game Flappy Bird
+Recreating the 2013 mobile hit "Flappy Bird" through the opensource Python Libary Pygame
